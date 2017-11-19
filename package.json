@@ -1,0 +1,34 @@
+{
+  "name": "project-discovery",
+  "version": "1.0.0",
+  "description": "An on boarding tool for developers to quickly familiarize yourself with new projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonCreature0714/project-discovery.git"
+  },
+  "keywords": [
+    "discovery",
+    "tool",
+    "project",
+    "project",
+    "management"
+  ],
+  "author": "William W Brubaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NonCreature0714/project-discovery/issues"
+  },
+  "homepage": "https://github.com/NonCreature0714/project-discovery#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
