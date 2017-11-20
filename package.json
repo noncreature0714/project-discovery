@@ -4,7 +4,7 @@
   "description": "An on boarding tool for developers to quickly familiarize yourself with new projects.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
